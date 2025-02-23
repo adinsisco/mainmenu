@@ -1,0 +1,4 @@
+python-dotenv
+streamlit
+sqlite3
+webbrowser
